@@ -1,0 +1,6 @@
+{
+    "schema": "http://telegram-messages-dump/schema/v/1",
+    "chat_name": "coscupchat",
+    "latest_message_id": 22451,
+    "exporter_name": "text"
+}
